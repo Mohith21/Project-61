@@ -1,0 +1,124 @@
+body {
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+li {
+    float: left;
+}
+
+a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+}
+
+h1 {
+    text-shadow: 2px;
+    color: yellow;
+}
+
+h2 {
+    color: purple;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+
+.profile {
+    width: 175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+
+#name {
+    font-family: 'Courgette', cursive;
+}
+
+
+#bio1 {
+    font-size: 30px;
+    color: maroon;
+}
+
+#bio2 {
+    font-size: 30px;
+    color: lightgreen;
+}
+
+html {
+    scroll-behaviour: smooth;
+}
+
+.parallax-container {
+    width: 600px;
+    height: 600px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.parallax-inner {
+    width: 600px;
+    height: 600px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#image1 {
+    width: 200%;
+    height: 300%;
+}
+
+#image2 {
+    width: 200%;
+    height: 300%;
+}
+
+#image3 {
+    width: 200%;
+    height: 300%;
+}
+
+#image4 {
+    width: 100%;
+    height: 200%;
+}
+
+#image5 {
+    width: 200%;
+    height: 300%;
+}
+
+#image6 {
+    width: 100%;
+    height: 200%;
+}
+
+#image7 {
+    width: 200%;
+    height: 300%;
+}
+#creators1{
+    color:aquamarine;
+    font-size:30px;
+}
+#creators2{
+    color:azure;
+    font-size:30px;
+}
+#picture{
+    width: 200%;
+    height: 300%;
+}
+#inspiration a{
+    text-shadow: none !important;
+    text-decoration: underline !important;
+    color: darkolivegreen !important;
+}
